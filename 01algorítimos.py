@@ -1,0 +1,3 @@
+# ALGORITIMOS
+
+print("Olá mundo")
